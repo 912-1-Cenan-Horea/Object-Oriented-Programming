@@ -1,0 +1,4 @@
+G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/a89_912_1_Cenan_Horea.dir
+G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/a89_912_1_Cenan_Horea_autogen.dir

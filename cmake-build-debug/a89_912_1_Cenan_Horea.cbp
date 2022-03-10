@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a89_912_1_Cenan_Horea"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\Qt\;CMake Files\..\..\..\Qt\5.15.2\;CMake Files\..\..\..\Qt\5.15.2\mingw81_64\;CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\;CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\;CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\;CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a89_912_1_Cenan_Horea">
+				<Option output="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add directory="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea_autogen/include"/>
+					<Add directory="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/."/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtGui"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtANGLE"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 a89_912_1_Cenan_Horea"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a89_912_1_Cenan_Horea/fast">
+				<Option output="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add directory="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea_autogen/include"/>
+					<Add directory="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/."/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtGui"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtANGLE"/>
+					<Add directory="G:/Qt/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 a89_912_1_Cenan_Horea/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a89_912_1_Cenan_Horea_autogen">
+				<Option working_dir="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 a89_912_1_Cenan_Horea_autogen"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatTableModel.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatTableModel.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatValidator.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatValidator.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/RepoException.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/adminGUI.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/adminGUI.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/admin_ui.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/admin_ui.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/appGUI.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/appGUI.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea_autogen/mocs_compilation.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/domain.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/domain.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/main.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/modeGUI.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/modeGUI.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repo.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsv.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsv.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsvHtml.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsvHtml.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoHtml.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoHtml.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repo_file.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/service.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/service.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/tests.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/tests.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userGUI.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userGUI.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userUi.cpp">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userUi.h">
+			<Option target="a89_912_1_Cenan_Horea"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/../../../Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

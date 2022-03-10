@@ -1,0 +1,289 @@
+{
+	"BUILD_DIR" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea_autogen",
+	"CMAKE_BINARY_DIR" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea",
+	"CMAKE_EXECUTABLE" : "G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CMakeLists.txt",
+		"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake",
+		"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake",
+		"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/3.17.5/CMakeCXXCompiler.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeGenericSystem.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeFindCodeBlocks.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/ProcessorCount.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeCInformation.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Compiler/GNU-C.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Compiler/GNU.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Internal/CMakeCheckCompilerFlag.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-GNU-C.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-GNU.cmake",
+		"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/3.17.5/CMakeRCCompiler.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeRCInformation.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-windres.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXInformation.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Compiler/GNU-CXX.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Compiler/GNU.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-GNU-CXX.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-GNU.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeParseArguments.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"G:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatTableModel.h",
+			"MU",
+			"EWIEGA46WW/moc_CoatTableModel.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatValidator.h",
+			"MU",
+			"EWIEGA46WW/moc_CoatValidator.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/RepoException.h",
+			"MU",
+			"EWIEGA46WW/moc_RepoException.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/adminGUI.h",
+			"MU",
+			"EWIEGA46WW/moc_adminGUI.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/admin_ui.h",
+			"MU",
+			"EWIEGA46WW/moc_admin_ui.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/appGUI.h",
+			"MU",
+			"EWIEGA46WW/moc_appGUI.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/domain.h",
+			"MU",
+			"EWIEGA46WW/moc_domain.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/modeGUI.h",
+			"MU",
+			"EWIEGA46WW/moc_modeGUI.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repo.h",
+			"MU",
+			"EWIEGA46WW/moc_repo.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsv.h",
+			"MU",
+			"EWIEGA46WW/moc_repoCsv.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsvHtml.h",
+			"MU",
+			"EWIEGA46WW/moc_repoCsvHtml.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoHtml.h",
+			"MU",
+			"EWIEGA46WW/moc_repoHtml.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repo_file.h",
+			"MU",
+			"EWIEGA46WW/moc_repo_file.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/service.h",
+			"MU",
+			"EWIEGA46WW/moc_service.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/tests.h",
+			"MU",
+			"EWIEGA46WW/moc_tests.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userGUI.h",
+			"MU",
+			"EWIEGA46WW/moc_userGUI.cpp"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userUi.h",
+			"MU",
+			"EWIEGA46WW/moc_userUi.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea_autogen/include",
+	"MOC_COMPILATION_FILE" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea",
+		"G:/Qt/5.15.2/mingw81_64/include",
+		"G:/Qt/5.15.2/mingw81_64/include/QtCore",
+		"G:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"G:/Qt/5.15.2/mingw81_64/include/QtGui",
+		"G:/Qt/5.15.2/mingw81_64/include/QtANGLE",
+		"G:/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"G:/Object Oriented Programing/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/a89_912_1_Cenan_Horea_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/a89_912_1_Cenan_Horea_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "G:/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "G:/Qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/cmake-build-debug/CMakeFiles/a89_912_1_Cenan_Horea_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatTableModel.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/CoatValidator.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/adminGUI.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/admin_ui.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/appGUI.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/domain.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/main.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/modeGUI.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsv.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoCsvHtml.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/repoHtml.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/service.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/tests.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userGUI.cpp",
+			"MU"
+		],
+		[
+			"G:/Object Oriented Programing/OOP/a89-912-1-Cenan-Horea/userUi.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
